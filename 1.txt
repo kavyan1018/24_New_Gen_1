@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+--> Document type html
+
+<html lang="en">
+--> in html we use english 
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+bold ==> <b></b> and <strong>
+italic ==> <i></i> and <em>
+underline ==> <u></u> and inserted
+delete ==> <del> and strikex
+high light ==> <mark>
+
+
+images tag 
+
+    <img src="" alt="">
+
+scr ==> source
+alt ==> altranet
+
+there is total 2 ways to insert images
+
+1st way to insert images from google 
+
+2nd way to insert images from download 
+
