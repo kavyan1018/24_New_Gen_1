@@ -35,3 +35,9 @@ there is total 2 ways to insert images
 
 2nd way to insert images from download 
 
+
+
+&nbsp;  ==> for space between any two objects 
+
+
+hr --> horizontal rule
